@@ -23,4 +23,4 @@ Physics-Informed Neural Networks (PINN) are a cutting-edge approach that leverag
 
 ## Acknowledgements
 
-Special thanks to **Konkuk University** and the course instructor for introducing me to the fascinating field of PINN.
+Special thanks to **Konkuk University** and the course instructor([Prof. Son][https://sites.google.com/view/hwijaeson]) for introducing me to the field of PINN.

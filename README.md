@@ -14,13 +14,6 @@ The repository is organized to save and document various assignments from the co
 
 Physics-Informed Neural Networks (PINN) are a cutting-edge approach that leverages deep learning to solve problems governed by physical laws, typically represented by partial differential equations (PDEs). This course introduced the foundations of PINN, bridging applied mathematics with modern computational techniques.
 
-## Repository Structure
-
-- **`python_basics/`**: Python assignments to enhance programming skills.
-- **`statistics_ml/`**: Exercises related to statistics and probability theory applied in ML.
-- **`ml_tasks/`**: Assignments focusing on implementing basic machine learning algorithms.
-- **`pinn_projects/`**: Example projects exploring PINN applications.
-
 ## Acknowledgements
 
 Special thanks to **Konkuk University** and the course instructor(Prof. Son[https://sites.google.com/view/hwijaeson]) for introducing me to the field of PINN.
